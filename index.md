@@ -2,7 +2,15 @@
 layout: default
 ---
 
-**Hey**, I'm `David`  , and I'm glad to share this series of articles covering `Telecom and Network Engineering` topics with you. [Follow me on LinkedIn](https://www.linkedin.com/in/telecom-engineer-5g-network/) to stay updated on my latest articles and discussions in these fields!
+# Telecommunications
+
+> *   [Microwave Communication Basics Part 3: Alignment](https://www.linkedin.com/pulse/microwave-communication-basics-part-3-alignment-david-ramirez-pmiwe/?trackingId=qt5g4kZ1RIe%2BceESpZWDBQ%3D%3D).
+> *   [Microwave Communication Basics: Part 2](https://www.linkedin.com/pulse/microwave-communication-basics-part-2-david-ramirez-coatc/).
+> *   [Microwave Communication Basics: Part 1](https://www.linkedin.com/pulse/microwave-communication-basics-part-1-david-ramirez-6t3de/).
+> *   [Understanding RSSI, RSRP, RSIP, RSRQ and SINR](https://www.linkedin.com/pulse/understanding-rssi-rsrp-rsip-rsrq-sinr-navigating-ramirez--bplof/).
+> *   [What is Return Loss? Why is it Important?](https://www.linkedin.com/pulse/what-return-loss-why-important-david-ram%C3%ADrez/).
+> *   [Tower-Mounted Amplifiers (TMA)](https://www.linkedin.com/pulse/tower-mounted-amplifiers-tma-david-ramirez/).
+> *   [Coaxial Cables: Understanding the Basics](https://www.linkedin.com/pulse/coaxial-cables-understanding-basics-david-ramirez-/).
 
 # Network Engineering
 
@@ -15,13 +23,7 @@ layout: default
 > *   [A Comprehensive Journey Through the OSI Model’s Layers, Layer 3 and Layer 4]( https://www.linkedin.com/pulse/comprehensive-journey-through-osi-models-layers-layer-ramirez--ws7if/).
 > *   [A Comprehensive Journey Through the OSI Model's Layers, Layer 1 and Layer 2](https://www.linkedin.com/pulse/comprehensive-journey-through-osi-models-layers-layer-ramirez--anrgf/).
 
-# Telecommuncations Engineering
+>
 
-> *   [Microwave Communication Basics Part 3: Alignment](https://www.linkedin.com/pulse/microwave-communication-basics-part-3-alignment-david-ramirez-pmiwe/?trackingId=qt5g4kZ1RIe%2BceESpZWDBQ%3D%3D).
-> *   [Microwave Communication Basics: Part 2](https://www.linkedin.com/pulse/microwave-communication-basics-part-2-david-ramirez-coatc/).
-> *   [Microwave Communication Basics: Part 1](https://www.linkedin.com/pulse/microwave-communication-basics-part-1-david-ramirez-6t3de/).
-> *   [Understanding RSSI, RSRP, RSIP, RSRQ and SINR](https://www.linkedin.com/pulse/understanding-rssi-rsrp-rsip-rsrq-sinr-navigating-ramirez--bplof/).
-> *   [What is Return Loss? Why is it Important?](https://www.linkedin.com/pulse/what-return-loss-why-important-david-ram%C3%ADrez/).
-> *   [Tower-Mounted Amplifiers (TMA)](https://www.linkedin.com/pulse/tower-mounted-amplifiers-tma-david-ramirez/).
-> *   [Coaxial Cables: Understanding the Basics](https://www.linkedin.com/pulse/coaxial-cables-understanding-basics-david-ramirez-/).
+[Follow me on LinkedIn](https://www.linkedin.com/in/telecom-engineer-5g-network/)
 
