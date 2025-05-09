@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+>
+[David R - LinkedIn](https://www.linkedin.com/in/telecom-engineer-5g-network/)
+
 
 # Troubleshooting
 > *   [Troubleshooting: Server Lost Connectivity After Reboot.](https://www.linkedin.com/pulse/troubleshooting-server-lost-connectivity-after-reboot-david-ramirez-0x2ke/).
@@ -28,10 +31,4 @@ layout: default
 > *   [Tower-Mounted Amplifiers (TMA)](https://www.linkedin.com/pulse/tower-mounted-amplifiers-tma-david-ramirez/).
 > *   [Coaxial Cables: Understanding the Basics](https://www.linkedin.com/pulse/coaxial-cables-understanding-basics-david-ramirez-/).
 
-
-
-
-
->
-[LinkedIn](https://www.linkedin.com/in/telecom-engineer-5g-network/)
 
