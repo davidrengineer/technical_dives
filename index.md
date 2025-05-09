@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Troubleshooting
+> *   [Troubleshooting: Server Lost Connectivity After Reboot.](https://www.linkedin.com/pulse/troubleshooting-server-lost-connectivity-after-reboot-david-ramirez-0x2ke/).
+
+
 # Network Engineering
 
 > *   [CCNA: Wireless Fundamentals, Architecture and Security](https://www.linkedin.com/pulse/ccna-wireless-fundamentals-architecture-security-ramirez--evire/).
@@ -25,7 +29,9 @@ layout: default
 > *   [Coaxial Cables: Understanding the Basics](https://www.linkedin.com/pulse/coaxial-cables-understanding-basics-david-ramirez-/).
 
 
->
 
-[Follow me on LinkedIn](https://www.linkedin.com/in/telecom-engineer-5g-network/)
+
+
+>
+[LinkedIn](https://www.linkedin.com/in/telecom-engineer-5g-network/)
 
