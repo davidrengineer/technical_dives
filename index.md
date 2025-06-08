@@ -2,7 +2,7 @@
 layout: default
 ---
 >
-[David R - LinkedIn](https://www.linkedin.com/in/telecom-engineer-5g-network/)
+[David R - LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/david-ramirez-engineer/)
 
 
 # Troubleshooting

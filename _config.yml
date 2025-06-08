@@ -3,5 +3,5 @@ description: Driven by a Curious Mind ...
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
-url: dengineeringblog.github.io
-baseurl: /ascend
+url: davidingineer.github.io
+baseurl: /technical_dives
